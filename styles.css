@@ -256,11 +256,11 @@ a {
 
 @media (max-width: 768px) {
     .hero {
-        min-height: 85vh;
+        min-height: 70vh;
     }
 
     .hero__img {
-        object-position: center center;
+        object-position: 65% center;
     }
 }
 
