@@ -1,6 +1,9 @@
 # PHP server files (not needed for GitHub Pages)
 send-mail.php
 
+# Design mockups
+mockups/
+
 # OS files
 .DS_Store
 Thumbs.db
