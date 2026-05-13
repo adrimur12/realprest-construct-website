@@ -1,0 +1,9 @@
+# PHP server files (not needed for GitHub Pages)
+send-mail.php
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
