@@ -4,6 +4,11 @@ send-mail.php
 # Design mockups
 mockups/
 
+# Utility/local files
+sync-to-docs.bat
+DEPLOY-GUIDE.md
+RealPrest-Website.zip
+
 # OS files
 .DS_Store
 Thumbs.db
